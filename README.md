@@ -5,13 +5,16 @@
 
 **Coded By BiZken**
 
+Special Thanks To Fanny Hasbi For helping Me With The Code Structure: https://github.com/fannyhasbi 
+
 PhishMailer Will Help You To Create Professional Phishing Emails Fast And Easy
 
-#### You Can Copy The Code And Try To Make It Better But Don't Copy It Without Giving Me Some Credit
+#### If You Copy The Code And Make Your Own, Don't forget To Give Me Some Credit Kid!
+
+## You Don't Get Creds Using This Tool 
 
 ## Legal Disclaimer
-I Won't Say That You Can Only Use This Tool For Educational Purposes And That You Can't Use It To Hack Other People
-Because I Have used It To Hack Others But Remember That It Is Illegal To Do It So If You Get Caught You're On Your Own
+You Can Only Use This Tool For Educational Purposes, Remember That It Is Illegal To Hack Others, You Get Caught You're On Your Own
 Don't Come To Me And Blame Me For It
 
 ### Features
@@ -35,11 +38,11 @@ Don't Come To Me And Blame Me For It
   * AskFM
   * Gamehag
 #### And More Are On The Way
-* Creates Both .HTML And .TXT Files
-* Send Emails Using Gmail
+* Creates .HTML
+* Send your emails to your target
 * Easy To Use
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/7jHvtgL/nyaste-meny.png" alt="nyaste-meny" border="0"></a>
+<a href="https://ibb.co/HTGXTNB"><img src="https://i.ibb.co/8gPXgzN/phishmailer-main-menu-2-0.png" alt="phishmailer-main-menu-2-0" border="0"></a>
 
 #### Gmail (Simple) Result:
 <a href="https://ibb.co/kSjzn5s"><img src="https://i.ibb.co/hmbr5LJ/Gmail-github.png" alt="Gmail-github" border="0"></a>
@@ -56,28 +59,25 @@ git clone https://www.github.com/BiZken/PhishMailer.git
 Then Go To The PhishMailer Folder And Change Permission On "PhishMailer" (If You Ain't Root)
 ```python
 chmod +x PhishMailer.py
+```
+And then Run it:
+```Run
 python3 PhishMailer.py
 ```
-
 ## To Do
 - [x] Send Emails
 - [x] Add More Email Templates
 - [ ] Add More Target Specified Emails, With Profile Pictures for example
-- [ ] Add Emails With More Languages (If You Speak Another language Than English And Would Like To Help Contact Me)
+- [ ] Add Emails With More Languages 
 - [ ] Mass Email Sender
-- [ ] Fix More Email Clients To Send From
-- [ ] Make The Code Cleaner
+- [x] Fix More Email Clients To Send From
 
 ## Contact
 If You Have Any Ideas And/Or Have Created Some Phishing Email(s) And Want To Have Your Name Here As A Code Helper
 You Can Contact Me Here:
-* wickr:  BiZken
-* Email: bizken@protonmail.com
+Instagram: bizk3n
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-
-
+## Support 
+If You Want To Support Me So I Can Continue And Update PhishMailer And Create Other Hacking Tools
+You Can Do That Here:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/BiZken)
